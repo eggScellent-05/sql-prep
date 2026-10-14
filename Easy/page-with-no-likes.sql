@@ -5,7 +5,7 @@ on p.page_id = pl.page_id
 where pl.page_id is NULL
 order by p.page_id;
 
-or 
+-- or 
 
 -- SELECT DISTINCT p.page_id
 -- FROM pages p
