@@ -14,3 +14,4 @@
 | 8   | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades)          | DataLemur | [completed-trades.sql](./Easy/completed-trades.sql)               |
 | 9   | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings)          | DataLemur | [avg-review-ratings.sql](./Easy/avg-review-ratings.sql)           |
 | 10  | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees)            | DataLemur | [well-paid-employees.sql](./Easy/well-paid-employees.sql)         |
+| 11  | [Final Account Balance](https://datalemur.com/questions/final-account-balance)            | DataLemur | [final-account-balance.sql](./Easy/final-account-balance.sql)     |
