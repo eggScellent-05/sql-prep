@@ -12,3 +12,4 @@
 | 6   | [Teams Power Users](https://datalemur.com/questions/teams-power-users)                    | DataLemur | [team-power-users.sql](./Easy/team-power-users.sql)               |
 | 7   | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings)          | DataLemur | [duplicate-job-listings.sql](./Easy/duplicate-job-listings.sql)   |
 | 8   | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades)          | DataLemur | [completed-trades.sql](./Easy/completed-trades.sql)               |
+| 9   | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings)          | DataLemur | [avg-review-ratings.sql](./Easy/avg-review-ratings.sql)           |
