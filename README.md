@@ -10,3 +10,4 @@
 | 4   | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts)                | DataLemur | [unfinished-parts.sql](./Easy/unfinished-parts.sql)               |
 | 5   | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | DataLemur | [average-post-hiatus-pt1.sql](./Easy/average-post-hiatus-pt1.sql) |
 | 6   | [Teams Power Users](https://datalemur.com/questions/teams-power-users)                    | DataLemur | [team-power-users.sql](./Easy/team-power-users.sql)               |
+| 7   | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings)          | DataLemur | [duplicate-job-listings.sql](./Easy/duplicate-job-listings.sql)   |
