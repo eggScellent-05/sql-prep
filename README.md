@@ -15,3 +15,4 @@
 | 9   | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings)          | DataLemur | [avg-review-ratings.sql](./Easy/avg-review-ratings.sql)           |
 | 10  | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees)            | DataLemur | [well-paid-employees.sql](./Easy/well-paid-employees.sql)         |
 | 11  | [Final Account Balance](https://datalemur.com/questions/final-account-balance)            | DataLemur | [final-account-balance.sql](./Easy/final-account-balance.sql)     |
+| 12  | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate)        | DataLemur | [click-through-rate.sql](./Easy/click-through-rate.sql)           |
