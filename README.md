@@ -22,10 +22,4 @@
 | 16  | [Pharmacy Analytics (Part 1)](https://datalemur.com/top-profitable-drugs)                     | DataLemur | [top-profitable-drugs.sql](./Easy/top-profitable-drugs.sql)       |
 | 17  | [Pharmacy Analytics (Part 2)](https://datalemur.com/non-profitable-drugs)                     | DataLemur | [non-profitable-drugs.sql](./Easy/non-profitable-drugs.sql)       |
 | 18  | [Pharmacy Analytics (Part 3)](https://datalemur.com/total-drugs-sales)                        | DataLemur | [total-drugs-sales.sql](./Easy/total-drugs-sales.sql)             |
-| 19  | [Pharmacy Analytics (Part 2)](https://datalemur.com/non-profitable-drugs)                     | DataLemur | [non-profitable-drugs.sql](./Easy/non-profitable-drugs.sql)       |
-
-<!--
-| 18                                                    | [Pharmacy Analytics (Part 3)](https://datalemur.com/total-drugs-sales)                        | DataLemur |
-| [total-drugs-sales.sql](./Easy/total-drugs-sales.sql) |
-| 19                                                    | [Patient Support Analysis (Part 1)](https://datalemur.com/frequent-callers)                   | DataLemur |
-| [frequent-callers.sql](./Easy/frequent-callers.sql)   | -->
+| 19  | [Patient Support Analysis (Part 1)](https://datalemur.com/frequent-callers)                   | DataLemur | [frequent-callers.sql](./Easy/frequent-callers.sql)               |
