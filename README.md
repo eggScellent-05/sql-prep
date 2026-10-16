@@ -29,3 +29,4 @@
 | #   | Problem Link                                                                                        | Platform  | My Solution                                                                       |
 | --- | --------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------- |
 | 1   | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | DataLemur | [uncategorized-calls-percentage.sql](./Medium/uncategorized-calls-percentage.sql) |
+| 2   | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction)                   | DataLemur | [sql-third-transaction.sql](./Medium/sql-third-transaction.sql)                   |
