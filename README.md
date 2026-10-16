@@ -17,3 +17,4 @@
 | 11  | [Final Account Balance](https://datalemur.com/questions/final-account-balance)                | DataLemur | [final-account-balance.sql](./Easy/final-account-balance.sql)     |
 | 12  | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate)            | DataLemur | [click-through-rate.sql](./Easy/click-through-rate.sql)           |
 | 13  | [❌ IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics) | DataLemur | [ibm-product-analytics.sql](./Easy/ibm-product-analytics.sql)     |
+| 14  | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference)            | DataLemur | [cards-issued-difference.sql](./Easy/cards-issued-difference.sql) |
