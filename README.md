@@ -18,3 +18,5 @@
 | 12  | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate)            | DataLemur | [click-through-rate.sql](./Easy/click-through-rate.sql)           |
 | 13  | [❌ IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics) | DataLemur | [ibm-product-analytics.sql](./Easy/ibm-product-analytics.sql)     |
 | 14  | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference)            | DataLemur | [cards-issued-difference.sql](./Easy/cards-issued-difference.sql) |
+| 15  | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean)                    | DataLemur | [alibaba-compressed-mean.sql](./Easy/alibaba-compressed-mean.sql) |
+| 16  | [Pharmacy Analytics (Part 1)](https://datalemur.com/top-profitable-drugs)                     | DataLemur | [top-profitable-drugs.sql](./Easy/top-profitable-drugs.sql)       |
