@@ -20,3 +20,4 @@
 | 14  | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference)            | DataLemur | [cards-issued-difference.sql](./Easy/cards-issued-difference.sql) |
 | 15  | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean)                    | DataLemur | [alibaba-compressed-mean.sql](./Easy/alibaba-compressed-mean.sql) |
 | 16  | [Pharmacy Analytics (Part 1)](https://datalemur.com/top-profitable-drugs)                     | DataLemur | [top-profitable-drugs.sql](./Easy/top-profitable-drugs.sql)       |
+| 16  | [Pharmacy Analytics (Part 2)](https://datalemur.com/non-profitable-drugs)                     | DataLemur | [non-profitable-drugs.sql](./Easy/non-profitable-drugs.sql)       |
