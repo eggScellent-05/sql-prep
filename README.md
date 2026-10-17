@@ -33,3 +33,4 @@
 | 3   | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary)                  | DataLemur | [sql-second-highest-salary.sql](./Medium/sql-second-highest-salary.sql)           |
 | 4   | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps)                       | DataLemur | [time-spent-snaps.sql](./Medium/time-spent-snaps.sql)                             |
 | 5   | [❌ Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets)               | DataLemur | [rolling-average-tweets.sql](./Medium/rolling-average-tweets.sql)                 |
+| 6   | [❌ Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries)                     | DataLemur | [sql-top-three-salaries.sql](./Medium/sql-top-three-salaries.sql)                 |
