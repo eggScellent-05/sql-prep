@@ -35,3 +35,4 @@
 | 5   | [❌ Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets)               | DataLemur | [rolling-average-tweets.sql](./Medium/rolling-average-tweets.sql)                 |
 | 6   | [❌ Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries)                     | DataLemur | [sql-top-three-salaries.sql](./Medium/sql-top-three-salaries.sql)                 |
 | 7   | [❌ Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate)               | DataLemur | [signup-confirmation-rate.sql](./Medium/signup-confirmation-rate.sql)             |
+| 8   | [❌ Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history)           | DataLemur | [spotify-streaming-history.sql](./Medium/spotify-streaming-history.sql)           |
