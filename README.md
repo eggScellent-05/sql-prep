@@ -37,3 +37,4 @@
 | 7   | [❌ Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate)               | DataLemur | [signup-confirmation-rate.sql](./Medium/signup-confirmation-rate.sql)             |
 | 8   | [❌ Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history)           | DataLemur | [spotify-streaming-history.sql](./Medium/spotify-streaming-history.sql)           |
 | 9   | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer)                          | DataLemur | [supercloud-customer.sql](./Medium/supercloud-customer.sql)                       |
+| 10  | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements)                  | DataLemur | [odd-even-measurements.sql](./Medium/odd-even-measurements.sql)                   |
