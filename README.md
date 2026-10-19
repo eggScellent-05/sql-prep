@@ -40,3 +40,4 @@
 | 10  | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements)                  | DataLemur | [odd-even-measurements.sql](./Medium/odd-even-measurements.sql)                   |
 | 11  | [Swapped Food Delivery](https://datalemur.com/questions/sql-swapped-food-delivery)                  | DataLemur | [sql-swapped-food-delivery.sql](./Medium/sql-swapped-food-delivery.sql)           |
 | 12  | [FAANG Stock Min-Max (Part 1)](https://datalemur.com/questions/sql-bloomberg-stock-min-max-1)       | DataLemur | [sql-bloomberg-stock-min-max-1.sql](./Medium/sql-bloomberg-stock-min-max-1.sql)   |
+| 13  | [Best-Selling Product](https://datalemur.com/questions/best-selling-products)                       | DataLemur | [best-selling-products.sql](./Medium/best-selling-products.sql)                   |
