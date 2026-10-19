@@ -38,3 +38,5 @@
 | 8   | [❌ Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history)           | DataLemur | [spotify-streaming-history.sql](./Medium/spotify-streaming-history.sql)           |
 | 9   | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer)                          | DataLemur | [supercloud-customer.sql](./Medium/supercloud-customer.sql)                       |
 | 10  | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements)                  | DataLemur | [odd-even-measurements.sql](./Medium/odd-even-measurements.sql)                   |
+| 11  | [Swapped Food Delivery](https://datalemur.com/questions/sql-swapped-food-delivery)                  | DataLemur | [sql-swapped-food-delivery.sql](./Medium/sql-swapped-food-delivery.sql)           |
+| 12  | [FAANG Stock Min-Max (Part 1)](https://datalemur.com/questions/sql-bloomberg-stock-min-max-1)       | DataLemur | [sql-bloomberg-stock-min-max-1.sql](./Medium/sql-bloomberg-stock-min-max-1.sql)   |
