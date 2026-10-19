@@ -44,3 +44,4 @@
 | 14  | [❌User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree)                     | DataLemur | [amazon-shopping-spree.sql](./Medium/amazon-shopping-spree.sql)                   |
 | 15  | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases)       | DataLemur | [histogram-users-purchases.sql](./Medium/histogram-users-purchases.sql)           |
 | 16  | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode)                          | DataLemur | [alibaba-compressed-mode.sql](./Medium/alibaba-compressed-mode.sql)               |
+| 17  | [Card Launch Success](https://datalemur.com/questions/card-launch-success)                          | DataLemur | [card-launch-success.sql](./Medium/card-launch-success.sql)                       |
