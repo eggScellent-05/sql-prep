@@ -42,4 +42,5 @@
 | 12  | [FAANG Stock Min-Max (Part 1)](https://datalemur.com/questions/sql-bloomberg-stock-min-max-1)       | DataLemur | [sql-bloomberg-stock-min-max-1.sql](./Medium/sql-bloomberg-stock-min-max-1.sql)   |
 | 13  | [Best-Selling Product](https://datalemur.com/questions/best-selling-products)                       | DataLemur | [best-selling-products.sql](./Medium/best-selling-products.sql)                   |
 | 14  | [❌User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree)                     | DataLemur | [amazon-shopping-spree.sql](./Medium/amazon-shopping-spree.sql)                   |
-| 14  | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases)       | DataLemur | [histogram-users-purchases.sql](./Medium/histogram-users-purchases.sql)           |
+| 15  | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases)       | DataLemur | [histogram-users-purchases.sql](./Medium/histogram-users-purchases.sql)           |
+| 16  | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode)                          | DataLemur | [alibaba-compressed-mode.sql](./Medium/alibaba-compressed-mode.sql)               |
