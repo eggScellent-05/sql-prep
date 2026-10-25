@@ -45,4 +45,10 @@
 | 15  | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases)       | DataLemur | [histogram-users-purchases.sql](./Medium/histogram-users-purchases.sql)           |
 | 16  | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode)                          | DataLemur | [alibaba-compressed-mode.sql](./Medium/alibaba-compressed-mode.sql)               |
 | 17  | [Card Launch Success](https://datalemur.com/questions/card-launch-success)                          | DataLemur | [card-launch-success.sql](./Medium/card-launch-success.sql)                       |
-| 17  | [International Call Percentage](https://datalemur.com/questions/international-call-percentage)      | DataLemur | [international-call-percentage.sql](./Medium/international-call-percentage.sql)   |
+| 18  | [International Call Percentage](https://datalemur.com/questions/international-call-percentage)      | DataLemur | [international-call-percentage.sql](./Medium/international-call-percentage.sql)   |
+
+## 🟡🔴 Medium Problems
+
+| #   | Problem Link                                                            | Platform  | My Solution                                       |
+| --- | ----------------------------------------------------------------------- | --------- | ------------------------------------------------- |
+| 1   | [Active User Retention](https://datalemur.com/questions/user-retention) | DataLemur | [user-retention.sql](./Medium/user-retention.sql) |

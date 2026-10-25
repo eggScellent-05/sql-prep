@@ -1,9 +1,6 @@
-SELECT 
-round(count(
-  CASE WHEN call_category in ('n/a','')  or call_category is NULL then 1
-  else null
-  END
-)*100.0/ count(*),1) as uncategorised_call_pct
-FROM callers;
+select 
+round(100.0*count(case when call_category = 'n/a' or TRIM(call_category) = '' or call_category IS NULL THEN 1 END)
+/count(*),1) as uncategorised_call_pct
+from callers
 
--- check if null is said in the question
+--COALESCE(NULLIF(TRIM(call_category), ''), 'n/a') = 'n/a' -- covers all three conditions
