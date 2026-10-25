@@ -49,6 +49,7 @@
 
 ## 🟡🔴 Medium Problems
 
-| #   | Problem Link                                                            | Platform  | My Solution                                       |
-| --- | ----------------------------------------------------------------------- | --------- | ------------------------------------------------- |
-| 1   | [Active User Retention](https://datalemur.com/questions/user-retention) | DataLemur | [user-retention.sql](./Medium/user-retention.sql) |
+| #   | Problem Link                                                            | Platform  | My Solution                                         |
+| --- | ----------------------------------------------------------------------- | --------- | --------------------------------------------------- |
+| 1   | [Active User Retention](https://datalemur.com/questions/user-retention) | DataLemur | [user-retention.sql](./Medium/user-retention.sql)   |
+| 2   | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate)   | DataLemur | [yoy-growth-rate.sql](./Medium/yoy-growth-rate.sql) |
