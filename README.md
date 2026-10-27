@@ -49,8 +49,9 @@
 
 ## 🟡🔴 Medium Problems
 
-| #   | Problem Link                                                                          | Platform  | My Solution                                               |
-| --- | ------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------- |
-| 1   | [Active User Retention](https://datalemur.com/questions/user-retention)               | DataLemur | [user-retention.sql](./Medium/user-retention.sql)         |
-| 2   | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate)                 | DataLemur | [yoy-growth-rate.sql](./Medium/yoy-growth-rate.sql)       |
-| 3   | [Median Google Search Frequencye](https://datalemur.com/questions/median-search-freq) | DataLemur | [median-search-freq.sql](./Medium/median-search-freq.sql) |
+| #   | Problem Link                                                                         | Platform  | My Solution                                               |
+| --- | ------------------------------------------------------------------------------------ | --------- | --------------------------------------------------------- |
+| 1   | [Active User Retention](https://datalemur.com/questions/user-retention)              | DataLemur | [user-retention.sql](./Medium/user-retention.sql)         |
+| 2   | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate)                | DataLemur | [yoy-growth-rate.sql](./Medium/yoy-growth-rate.sql)       |
+| 3   | [Median Google Search Frequency](https://datalemur.com/questions/median-search-freq) | DataLemur | [median-search-freq.sql](./Medium/median-search-freq.sql) |
+| 4   | [Advertiser Status](https://datalemur.com/questions/updated-status)                  | DataLemur | [updated-status.sql](./Medium/updated-status.sql)         |
